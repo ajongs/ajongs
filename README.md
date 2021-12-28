@@ -4,8 +4,9 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajongs&show_icons=true&theme=radical)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajongs">
+<img width='300px' align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajongs">
 <!--
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
