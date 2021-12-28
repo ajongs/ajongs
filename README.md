@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## Skills
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white"/></a>
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ajongs">
 <!--
