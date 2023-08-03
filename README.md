@@ -1,12 +1,12 @@
 # 박원종 Park Wonjong
 👩‍💻 Backend Developer  
-👩‍🎓 Kongju National Univ. Computer Engineering  <sub><sup>(2016.03 ~ 2023.02)</sup></sub> 
+
 
 **Hyundai Motor Group** <sub><sup> Service develpment Group BE developer (2023.04 ~ now)</sup></sub>
 
 ---
 **현대자동차 소프티어 부트캠프** <sub><sup> Web Backend (2023.01 ~ 2023.02)</sup></sub>  
-**공주대학교 학부연구생** <sub><sup>A Study on the Efficient Broadcast Technique for Emergency Message Transmission in Vehicle Ad hoc Networks (2022.01 ~ 2022.06)</sup></sub>  
+
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
